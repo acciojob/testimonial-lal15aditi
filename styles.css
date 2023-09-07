@@ -3,13 +3,13 @@ main {
             padding: 20px;
             background-color: #f5f5f5;
         }
-        .box {
+        div {
             border: 2px solid lightgray;
             padding: 20px;
             margin-bottom: 20px;
             background-color: white;
         }
-        .author {
+        p {
             text-align: right;
             font-style: italic;
         }
